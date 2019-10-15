@@ -1,0 +1,8 @@
+discord-streaming-bot:
+  build: "."
+  ports:
+    - "5901:5901"
+  container_name: "discord-streaming-bot-container"
+  volumes:
+    - ./workspace:/workspace
+  restart: "unless-stopped"

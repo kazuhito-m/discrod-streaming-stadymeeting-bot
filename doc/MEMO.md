@@ -11,9 +11,11 @@ Discordの「動画をYoutubeLiveに流す」Botを作成する。
 
 ## ToDO
 
-− [ ] vncでDocker
-− [ ] vncでffmepg
-− [ ] vncで音声録音
+- [ ] Dockerでvnc
+- [ ] vncで音声(録音してみたらわかる)
+- [ ] vncでffmepg
+- [ ] vncでデスクトップ録画
+- [ ] vncで音声録音
 - [ ] ffmepgでGoogleLive
 - [ ] コマンドラインでブラウザ起動
 - [ ] コマンドラインでffmpeg開始
