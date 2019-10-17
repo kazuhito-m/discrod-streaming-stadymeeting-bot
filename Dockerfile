@@ -2,7 +2,9 @@ FROM ubuntu:19.04
 
 RUN apt-get update \
     && DEBIAN_FRONTEND=noninteractive apt-get install -y \
-      lxde \
+      gnome-core \
+      ubuntu-desktop \
+      gnome-panel metacity nautilus gnome-terminal \
       tightvncserver \
       ibus \
       ibus-mozc \

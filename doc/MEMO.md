@@ -12,6 +12,8 @@ Discordの「動画をYoutubeLiveに流す」Botを作成する。
 ## ToDO
 
 - [ ] Dockerでvnc
+    - [ ] https://github.com/queeno/docker-ubuntu-desktop そのまま全部持ってきて動くか
+    - [ ] 徐々にバージョン上げてって動くか
 - [ ] vncで音声(録音してみたらわかる)
 - [ ] vncでffmepg
 - [ ] vncでデスクトップ録画
